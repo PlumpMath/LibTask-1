@@ -1,4 +1,4 @@
-LibTask (pre alpha) (MIT licence)
+LibTask (v0.1pa) (MIT licence)
 =========================
 
 A small Coroutine lib in C based on Russ Cox libtask.
